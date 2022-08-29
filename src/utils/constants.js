@@ -34,8 +34,8 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://ibb.co/b7CpzsT';
-export const demoChannelUrl = 'channel/UCuAXFkgsw1L7xaCfnd5JJOw';
+export const demoThumbnailUrl = 'https://i.ibb.co/x3BVJ1W/hqdefault.jpg';
+export const demoChannelUrl = '/channel/UCuAXFkgsw1L7xaCfnd5JJOw';
 export const demoVideoUrl = '/video/dQw4w9WgXcQ';
 export const demoChannelTitle = 'Rick Astley';
 export const demoVideoTitle = 'Rick Astley - Never Gonna Give You Up (Official Music Video)';
