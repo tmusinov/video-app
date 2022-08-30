@@ -1,10 +1,14 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Video App
 
-## Available Scripts
+A video app (YT clone) made using ReactJS and MaterialUI 
 
-In the project directory, you can run:
+## Netlify 
+
+https://majestic-creponne-1ebd00.netlify.app/
+
+
+
 
 ### `npm start`
 
